@@ -1,4 +1,4 @@
-# Symptom Extraction and Linking from VAERS (NLP, Prompting)
+# Symptom Extraction and Linking from VAERS
 
 A Python-based project that extracts symptoms from VAERS reports using natural language processing (NLP) and machine learning techniques, with a focus on named entity recognition (NER) and entity linking.
 
